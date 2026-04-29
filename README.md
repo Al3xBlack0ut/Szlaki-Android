@@ -1,5 +1,7 @@
-# Trails – Dokumentacja Techniczna ProjektuAplikacja mobilna na platformę Android służąca do przeglądania tras turystycznych, monitorowania aktywności w czasie rzeczywistym oraz zarządzania danymi w modelu offline-first. Projekt realizuje założenia nowoczesnej architektury Android.
+# Trails – Dokumentacja Techniczna Projektu
 ## **Autor:** Aleks Czarnecki
+Aplikacja mobilna na platformę Android służąca do przeglądania tras turystycznych, monitorowania aktywności w czasie rzeczywistym oraz zarządzania danymi w modelu offline-first. Projekt realizuje założenia nowoczesnej architektury Android.
+
 
 ## Architektura i Stos Technologiczny
 
